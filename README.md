@@ -7,7 +7,7 @@ For this project, I want to create a number of different visualizations and I wi
 <img width="580" height="180" alt="image" src="https://github.com/user-attachments/assets/18680e3c-f450-44c5-90ed-abfe5316bf6b" />
 
 
-## :chart_with_downwards_trend:Obtaining and Importing the Data
+## :chart_with_downwards_trend:Obtaining the Data
 Once again, I will be working with Milwaukee crime data. The dataset that I will be utilizing is available on the 'City of Milwaukee' open data portal, [here](https://data.milwaukee.gov/group/public-safety)
 
 For this analysis, we need to import the following libraries: pandas, numpy, matplotlib.pyplot, matplotlib.ticker, and seaborn.
