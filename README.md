@@ -51,7 +51,7 @@ def vlag_bars(n):
             pts.append(t * 0.4 if t < 0.5 else 0.6 + (t - 0.5) * 0.8)
     return sns.color_palette([CMAP(x) for x in pts])
 ```
-# :fork_and_knife: Prepping the Data
+## :fork_and_knife: Prepping the Data
 Next, we will prep the data for analysis.
 ```python
 # ---------- Prep Data ----------
@@ -190,7 +190,7 @@ So ```top_wards``` ends up as:
 | 186 | ~4,000 (highest) |
 
 
-# :camera: Visualizing our Data
+## :camera: Visualizing our Data
 Now that we are done prepping our data, it is time to create our graphics!
 ```python
 # ---------- Visualize Data ----------
