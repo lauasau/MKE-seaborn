@@ -1,4 +1,5 @@
-# :book: Introduction
+# Learning Seaborn
+## :book: Introduction
 
 Today, I will be practicing my Python skills! Specifically, I will be practicing with Python's seaborn library. Seaborn is one of my favorite libraries since it is so easy to learn and because it creates such beautiful plots! 
 
